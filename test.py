@@ -23,4 +23,4 @@ arr = np.array(my_list)
 print(f"1차원 배열: {arr}")
 
 print("Hello, World!")
-print("새로운 세상입니다!")
+print("새로운 세상입니다. ~ ありがとう!")
