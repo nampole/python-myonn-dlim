@@ -5,3 +5,12 @@ dilm/img/cover.jpeg
 dilm/notebooks/clean_gutenberg_model.w2v
 dilm/notebooks/clean_gutenberg_tsne.csv
 dilm/notebooks/hot-dog-not-hot-dog.tar.gz
+myonn/mnist_dataset/mnist_readme.txt
+myonn/mnist_dataset/mnist_test_10.csv
+myonn/mnist_dataset/mnist_test.csv
+myonn/mnist_dataset/mnist_test.gz
+myonn/mnist_dataset/mnist_train_100.csv
+myonn/mnist_dataset/mnist_train.csv
+myonn/mnist_dataset/mnist_test.csv.zip
+myonn/mnist_dataset/mnist_train.csv.zip
+myonn/mnist_dataset/mnist_train.gz
