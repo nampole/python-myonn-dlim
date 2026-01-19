@@ -1,3 +1,6 @@
+import tensorflow as tf
+print (tf.__version__)
+
 # 필요한 함수 임포트 ~ air 에서 다시 커밋
 from scipy.special import gamma, erf, beta 
 import numpy as np
