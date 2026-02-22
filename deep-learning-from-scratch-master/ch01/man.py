@@ -4,7 +4,7 @@ class Man:
 
     def __init__(self, name):
         self.name = name
-        print("Initilized!")
+        print("Initilized! 초기화 되었습니다!")
 
     def hello(self):
         print("Hello " + self.name + "!")
@@ -12,6 +12,6 @@ class Man:
     def goodbye(self):
         print("Good-bye " + self.name + "!")
 
-m = Man("David")
+m = Man("대한민국")
 m.hello()
 m.goodbye()
