@@ -11,8 +11,8 @@ def step_function(x):
     return np.array(x > 0, dtype=int)
 
 x = np.arange(-5.0, 5.0, 0.1)
-y1 = sigmoid(x)
-y2 = step_function(x)
+y1 = sigmoid(x)         # 시그모이드 함수의 결과
+y2 = step_function(x)   # 계단 함수의 결과
 
 plt.plot(x, y1)
 plt.plot(x, y2, 'k--')

@@ -1,4 +1,6 @@
 # coding: utf-8
+# ReLU 함수 구현 Rectified Linear Unit
+
 import numpy as np
 import matplotlib.pylab as plt
 
