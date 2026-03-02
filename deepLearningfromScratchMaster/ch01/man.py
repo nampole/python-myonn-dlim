@@ -1,3 +1,4 @@
+import numpy as np
 # coding: utf-8
 class Man:
     """サンプルクラス"""
@@ -15,3 +16,11 @@ class Man:
 m = Man("대한민국")
 m.hello()
 m.goodbye()
+
+x = np.array([1.0, 2.0, 3.0])
+print(x)
+print (type(x))
+y = np.array([[1.0, 2.0, 3.0], [4.0, 5.0, 6.0]])
+print(y)
+print (type(y))
+print (y/3.0)
