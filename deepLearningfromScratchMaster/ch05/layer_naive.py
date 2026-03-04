@@ -1,5 +1,5 @@
 # coding: utf-8
-
+# layer_naive.py
 
 class MulLayer:
     def __init__(self):
